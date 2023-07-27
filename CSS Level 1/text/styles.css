@@ -1,0 +1,15 @@
+#alignment{
+    text-align: center;
+}
+#decoration{
+    text-decoration: green underline ;
+}
+#decoration1{
+    text-decoration: red wavy underline;
+}
+#fontStyle1{
+    font-family: Arial;
+}
+#fontStyle2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

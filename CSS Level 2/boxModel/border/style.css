@@ -1,0 +1,22 @@
+.box{
+    height: 100px;
+    width: 100px;
+
+    background-color: darkblue;
+
+    border-top: 5px;
+    border-style:double;
+    border-color:darkgrey;
+
+}
+.box2{
+    height: 100px;
+    width: 100px;
+
+    background-color: goldenrod;
+
+    border: 7px solid fuchsia;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

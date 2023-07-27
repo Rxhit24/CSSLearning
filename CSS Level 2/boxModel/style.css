@@ -1,0 +1,33 @@
+.box1{
+    height: 50px;
+    background-color: blueviolet;
+
+    border-top: 2px;
+    border-style: groove;
+    border-color: peru;
+    
+    padding-left: 20px;
+}
+.box2{
+    height: 60px;
+    width: 60px;
+    background-color: darkolivegreen;
+
+    border: 3px solid rebeccapurple;
+}
+.box3{
+    height:70px;
+    width: 80px;
+    text-align: center;
+    background-color: darkslategray;
+
+    border: 4px dotted firebrick;
+    border-radius: 5px;
+}
+.box4toCircle{
+    height: 100px;
+    width: 100px;
+
+    background-color: blue;
+    border-radius: 50%;
+}
