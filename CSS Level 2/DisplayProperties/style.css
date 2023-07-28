@@ -1,0 +1,24 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#inline-1{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    background-color: darkred;
+
+    display: inline;
+}
+
+#inline-block1{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    background-color: palegoldenrod;
+
+    display: inline-block;
+}
