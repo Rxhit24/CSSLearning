@@ -1,0 +1,10 @@
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: deeppink;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    top: 400px;
+}
