@@ -1,0 +1,50 @@
+div{
+    background-color: slategrey;
+    height: 200px;
+    width: 200px;
+
+}
+@media (width: 300px){
+    .box1{
+        background-color: green;
+    }
+    .box2{
+        background-color: bisque;
+    }
+    .box3{
+        background-color: royalblue;
+    }
+}
+@media (min-width: 300px) and (max-width: 400px){
+    .box1{
+        background-color: pink;
+    }
+    .box2{
+        background-color: purple;
+    }
+    .box3{
+        background-color: powderblue;
+    }
+}
+@media (min-width: 400px) and (max-width: 600px){
+    .box1{
+        background-color: red;
+    }
+    .box2{
+        background-color: rgb(101, 8, 8);
+    }
+    .box3{
+        background-color: rgb(253, 123, 123);
+    }
+}
+@media (min-width: 600px){
+    .box1{
+        background-color: blue;
+    }
+    .box2{
+        background-color: rgb(132, 76, 7);
+    }
+    .box3{
+        background-color: rgb(3, 23, 81);
+    }
+}

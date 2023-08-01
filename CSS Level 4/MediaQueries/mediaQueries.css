@@ -1,0 +1,16 @@
+div{
+    background-color: dimgray;
+    height: 200px;
+    width: 200px;
+
+}
+@media (width: 600px) {
+    div{
+        background-color: bisque;
+    }
+}
+@media (max-width: 400px) {
+    div{
+        background-color: blueviolet;
+    }
+}
