@@ -1,0 +1,20 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    font-family: monospace;
+    transition-property:  all;
+    transition-duration: 3s;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition-delay: 1s;
+
+}
+div:hover{
+    background-color: rosybrown;
+    text-align: center;
+    
+
+}
+div:active{
+    background-color: orchid;
+}

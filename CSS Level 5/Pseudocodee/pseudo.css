@@ -1,0 +1,16 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: darkgrey;
+
+    margin: 0 auto;
+}
+div:hover{
+    background-color: rgb(14, 181, 103);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+div:active{
+    background-color: rgb(232, 26, 98);
+    font-family: fantasy;
+}
